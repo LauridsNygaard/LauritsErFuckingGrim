@@ -1,0 +1,7 @@
+C:\Users\Bruger\Desktop\VS code\video 22 gennemløb Arrrays\video 22 gennemløb Arrrays\bin\Debug\video 22 gennemløb Arrrays.exe.config
+C:\Users\Bruger\Desktop\VS code\video 22 gennemløb Arrrays\video 22 gennemløb Arrrays\bin\Debug\video 22 gennemløb Arrrays.exe
+C:\Users\Bruger\Desktop\VS code\video 22 gennemløb Arrrays\video 22 gennemløb Arrrays\bin\Debug\video 22 gennemløb Arrrays.pdb
+C:\Users\Bruger\Desktop\VS code\video 22 gennemløb Arrrays\video 22 gennemløb Arrrays\obj\Debug\video 22 gennemløb Arrrays.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VS code\video 22 gennemløb Arrrays\video 22 gennemløb Arrrays\obj\Debug\video 22 gennemløb Arrrays.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\video 22 gennemløb Arrrays\video 22 gennemløb Arrrays\obj\Debug\video 22 gennemløb Arrrays.exe
+C:\Users\Bruger\Desktop\VS code\video 22 gennemløb Arrrays\video 22 gennemløb Arrrays\obj\Debug\video 22 gennemløb Arrrays.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bruger\Desktop\VS code\Sidstetal opgave\Sidstetal opgave\obj\Debug\Sidstetal opgave.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\Sidstetal opgave\Sidstetal opgave\bin\Debug\Sidstetal opgave.exe.config
+C:\Users\Bruger\Desktop\VS code\Sidstetal opgave\Sidstetal opgave\bin\Debug\Sidstetal opgave.exe
+C:\Users\Bruger\Desktop\VS code\Sidstetal opgave\Sidstetal opgave\bin\Debug\Sidstetal opgave.pdb
+C:\Users\Bruger\Desktop\VS code\Sidstetal opgave\Sidstetal opgave\obj\Debug\Sidstetal opgave.exe
+C:\Users\Bruger\Desktop\VS code\Sidstetal opgave\Sidstetal opgave\obj\Debug\Sidstetal opgave.pdb

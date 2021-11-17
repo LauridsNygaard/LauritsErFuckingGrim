@@ -1,0 +1,23 @@
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\bin\Debug\MatHelp V 0.1.exe.config
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\bin\Debug\MatHelp V 0.1.exe
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\bin\Debug\MatHelp V 0.1.pdb
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\MatHelp V 0.1.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\MainWindow.g.cs
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\pythago.g.cs
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\App.g.cs
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\MatHelp V 0.1_MarkupCompile.cache
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\MatHelp V 0.1_MarkupCompile.lref
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\MainWindow.baml
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\pythago.baml
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\MatHelp V 0.1.g.resources
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\MatHelp_V_0._1.Properties.Resources.resources
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\MatHelp V 0.1.csproj.GenerateResource.cache
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\MatHelp V 0.1.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\MatHelp V 0.1.exe
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\MatHelp V 0.1.pdb
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\Pythagoras History.g.cs
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\Pythagoras History.baml
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\bin\Debug\WpfMath.dll
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\MatHelp V 0.1.csproj.CopyComplete
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\triCalc.g.cs
+C:\Users\Bruger\Desktop\VS code\MatHelp V 0.1\MatHelp V 0.1\obj\Debug\triCalc.baml

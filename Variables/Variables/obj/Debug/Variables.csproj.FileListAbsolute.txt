@@ -1,0 +1,7 @@
+C:\Users\Bruger\Desktop\VS code\Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VS code\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\Bruger\Desktop\VS code\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\Bruger\Desktop\VS code\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\Bruger\Desktop\VS code\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\Bruger\Desktop\VS code\Variables\Variables\obj\Debug\Variables.pdb

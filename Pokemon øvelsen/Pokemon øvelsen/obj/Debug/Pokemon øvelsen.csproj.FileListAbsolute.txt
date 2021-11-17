@@ -1,0 +1,7 @@
+C:\Users\Bruger\Desktop\VS code\Pokemon øvelsen\Pokemon øvelsen\bin\Debug\Pokemon øvelsen.exe.config
+C:\Users\Bruger\Desktop\VS code\Pokemon øvelsen\Pokemon øvelsen\bin\Debug\Pokemon øvelsen.exe
+C:\Users\Bruger\Desktop\VS code\Pokemon øvelsen\Pokemon øvelsen\bin\Debug\Pokemon øvelsen.pdb
+C:\Users\Bruger\Desktop\VS code\Pokemon øvelsen\Pokemon øvelsen\obj\Debug\Pokemon øvelsen.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VS code\Pokemon øvelsen\Pokemon øvelsen\obj\Debug\Pokemon øvelsen.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\Pokemon øvelsen\Pokemon øvelsen\obj\Debug\Pokemon øvelsen.exe
+C:\Users\Bruger\Desktop\VS code\Pokemon øvelsen\Pokemon øvelsen\obj\Debug\Pokemon øvelsen.pdb

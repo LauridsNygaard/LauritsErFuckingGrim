@@ -1,0 +1,7 @@
+C:\Users\Bruger\Desktop\VS code\StreamWrite Read test\StreamWrite Read test\bin\Debug\StreamWrite Read test.exe.config
+C:\Users\Bruger\Desktop\VS code\StreamWrite Read test\StreamWrite Read test\bin\Debug\StreamWrite Read test.exe
+C:\Users\Bruger\Desktop\VS code\StreamWrite Read test\StreamWrite Read test\bin\Debug\StreamWrite Read test.pdb
+C:\Users\Bruger\Desktop\VS code\StreamWrite Read test\StreamWrite Read test\obj\Debug\StreamWrite Read test.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VS code\StreamWrite Read test\StreamWrite Read test\obj\Debug\StreamWrite Read test.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\StreamWrite Read test\StreamWrite Read test\obj\Debug\StreamWrite Read test.exe
+C:\Users\Bruger\Desktop\VS code\StreamWrite Read test\StreamWrite Read test\obj\Debug\StreamWrite Read test.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bruger\Desktop\VS code\If-else statemens\If-else statemens\bin\Debug\If-else statemens.exe.config
+C:\Users\Bruger\Desktop\VS code\If-else statemens\If-else statemens\bin\Debug\If-else statemens.exe
+C:\Users\Bruger\Desktop\VS code\If-else statemens\If-else statemens\bin\Debug\If-else statemens.pdb
+C:\Users\Bruger\Desktop\VS code\If-else statemens\If-else statemens\obj\Debug\If-else statemens.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VS code\If-else statemens\If-else statemens\obj\Debug\If-else statemens.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\If-else statemens\If-else statemens\obj\Debug\If-else statemens.exe
+C:\Users\Bruger\Desktop\VS code\If-else statemens\If-else statemens\obj\Debug\If-else statemens.pdb

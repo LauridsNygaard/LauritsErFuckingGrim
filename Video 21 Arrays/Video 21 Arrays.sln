@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video 21 Arrays", "Video 21 Arrays\Video 21 Arrays.csproj", "{974DC254-8477-44EF-BA2A-3FBE463FB1D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{974DC254-8477-44EF-BA2A-3FBE463FB1D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974DC254-8477-44EF-BA2A-3FBE463FB1D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974DC254-8477-44EF-BA2A-3FBE463FB1D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974DC254-8477-44EF-BA2A-3FBE463FB1D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45EFEA95-33EA-4FA6-BCFA-7EF82C3285C8}
+	EndGlobalSection
+EndGlobal

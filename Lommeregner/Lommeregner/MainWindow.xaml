@@ -1,0 +1,20 @@
+﻿<Window x:Class="Lommeregner.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lommeregner"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="474.658" Width="836.986">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="40" Margin="47,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="179" FontSize="30"/>
+        <TextBox HorizontalAlignment="Left" Height="40" Margin="286,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="179" FontSize="30"/>
+        <TextBox HorizontalAlignment="Left" Height="40" Margin="606,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="179" FontSize="30" IsEnabled="False"/>
+        <Label Content="=" HorizontalAlignment="Left" Margin="526,150,0,0" VerticalAlignment="Top" Height="40" Width="41" FontSize="20"/>
+        <Button Content="+" HorizontalAlignment="Left" Margin="47,219,0,0" VerticalAlignment="Top" Width="55" Height="55" FontSize="35" Click="Adittion_buttonClicked"/>
+        <Button Content="-" HorizontalAlignment="Left" Margin="171,219,0,0" VerticalAlignment="Top" Width="55" Height="55" FontSize="35" Click="Button_Click"/>
+        <Button Content="X" HorizontalAlignment="Left" Margin="286,219,0,0" VerticalAlignment="Top" Width="55" Height="55" FontSize="35"/>
+        <Button Content="/" HorizontalAlignment="Left" Margin="410,219,0,0" VerticalAlignment="Top" Width="55" Height="55" FontSize="35"/>
+
+    </Grid>
+</Window>

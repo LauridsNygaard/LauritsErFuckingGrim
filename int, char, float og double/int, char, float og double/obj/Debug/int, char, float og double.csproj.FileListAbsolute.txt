@@ -1,0 +1,7 @@
+C:\Users\Bruger\Desktop\VS code\int, char, float og double\int, char, float og double\bin\Debug\int, char, float og double.exe.config
+C:\Users\Bruger\Desktop\VS code\int, char, float og double\int, char, float og double\bin\Debug\int, char, float og double.exe
+C:\Users\Bruger\Desktop\VS code\int, char, float og double\int, char, float og double\bin\Debug\int, char, float og double.pdb
+C:\Users\Bruger\Desktop\VS code\int, char, float og double\int, char, float og double\obj\Debug\int, char, float og double.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VS code\int, char, float og double\int, char, float og double\obj\Debug\int, char, float og double.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\int, char, float og double\int, char, float og double\obj\Debug\int, char, float og double.exe
+C:\Users\Bruger\Desktop\VS code\int, char, float og double\int, char, float og double\obj\Debug\int, char, float og double.pdb

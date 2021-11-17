@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\VS code\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+C:\Users\Bruger\Desktop\VS code\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+C:\Users\Bruger\Desktop\VS code\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+C:\Users\Bruger\Desktop\VS code\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VS code\SpaceShooter\SpaceShooter\obj\Debug\MainWindow.g.cs
+C:\Users\Bruger\Desktop\VS code\SpaceShooter\SpaceShooter\obj\Debug\App.g.cs
+C:\Users\Bruger\Desktop\VS code\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter_MarkupCompile.cache
+C:\Users\Bruger\Desktop\VS code\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter_MarkupCompile.lref
+C:\Users\Bruger\Desktop\VS code\SpaceShooter\SpaceShooter\obj\Debug\MainWindow.baml
+C:\Users\Bruger\Desktop\VS code\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.g.resources
+C:\Users\Bruger\Desktop\VS code\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+C:\Users\Bruger\Desktop\VS code\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.cache
+C:\Users\Bruger\Desktop\VS code\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+C:\Users\Bruger\Desktop\VS code\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bruger\Desktop\VS code\Variabler i udtryk\Variabler i udtryk\bin\Debug\Variabler i udtryk.exe.config
+C:\Users\Bruger\Desktop\VS code\Variabler i udtryk\Variabler i udtryk\bin\Debug\Variabler i udtryk.exe
+C:\Users\Bruger\Desktop\VS code\Variabler i udtryk\Variabler i udtryk\bin\Debug\Variabler i udtryk.pdb
+C:\Users\Bruger\Desktop\VS code\Variabler i udtryk\Variabler i udtryk\obj\Debug\Variabler i udtryk.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\Variabler i udtryk\Variabler i udtryk\obj\Debug\Variabler i udtryk.exe
+C:\Users\Bruger\Desktop\VS code\Variabler i udtryk\Variabler i udtryk\obj\Debug\Variabler i udtryk.pdb

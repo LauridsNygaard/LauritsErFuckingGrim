@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\VS code\Lommeregner\Lommeregner\bin\Debug\Lommeregner.exe.config
+C:\Users\Bruger\Desktop\VS code\Lommeregner\Lommeregner\bin\Debug\Lommeregner.exe
+C:\Users\Bruger\Desktop\VS code\Lommeregner\Lommeregner\bin\Debug\Lommeregner.pdb
+C:\Users\Bruger\Desktop\VS code\Lommeregner\Lommeregner\obj\Debug\Lommeregner.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VS code\Lommeregner\Lommeregner\obj\Debug\MainWindow.g.cs
+C:\Users\Bruger\Desktop\VS code\Lommeregner\Lommeregner\obj\Debug\App.g.cs
+C:\Users\Bruger\Desktop\VS code\Lommeregner\Lommeregner\obj\Debug\Lommeregner_MarkupCompile.cache
+C:\Users\Bruger\Desktop\VS code\Lommeregner\Lommeregner\obj\Debug\Lommeregner_MarkupCompile.lref
+C:\Users\Bruger\Desktop\VS code\Lommeregner\Lommeregner\obj\Debug\MainWindow.baml
+C:\Users\Bruger\Desktop\VS code\Lommeregner\Lommeregner\obj\Debug\Lommeregner.g.resources
+C:\Users\Bruger\Desktop\VS code\Lommeregner\Lommeregner\obj\Debug\Lommeregner.Properties.Resources.resources
+C:\Users\Bruger\Desktop\VS code\Lommeregner\Lommeregner\obj\Debug\Lommeregner.csproj.GenerateResource.cache
+C:\Users\Bruger\Desktop\VS code\Lommeregner\Lommeregner\obj\Debug\Lommeregner.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\Lommeregner\Lommeregner\obj\Debug\Lommeregner.exe
+C:\Users\Bruger\Desktop\VS code\Lommeregner\Lommeregner\obj\Debug\Lommeregner.pdb

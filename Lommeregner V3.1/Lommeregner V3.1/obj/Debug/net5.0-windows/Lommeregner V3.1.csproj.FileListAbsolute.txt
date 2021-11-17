@@ -1,0 +1,26 @@
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\bin\Debug\net5.0-windows\Lommeregner V3.1.exe
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\bin\Debug\net5.0-windows\Lommeregner V3.1.deps.json
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\bin\Debug\net5.0-windows\Lommeregner V3.1.runtimeconfig.json
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\bin\Debug\net5.0-windows\Lommeregner V3.1.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\bin\Debug\net5.0-windows\Lommeregner V3.1.dll
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\bin\Debug\net5.0-windows\ref\Lommeregner V3.1.dll
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\bin\Debug\net5.0-windows\Lommeregner V3.1.pdb
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\Lommeregner V3.1.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\Lommeregner1.g.cs
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\Lommeregner V3.1_MarkupCompile.cache
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\Lommeregner V3.1_MarkupCompile.lref
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\Lommeregner1.baml
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\Lommeregner V3.1.g.resources
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\Lommeregner V3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\Lommeregner V3.1.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\Lommeregner V3.1.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\Lommeregner V3.1.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\Lommeregner V3.1.dll
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\ref\Lommeregner V3.1.dll
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\Lommeregner V3.1.pdb
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\Lommeregner V3.1.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\Lommeregner2.g.cs
+C:\Users\Bruger\Desktop\VS code\Lommeregner V3.1\Lommeregner V3.1\obj\Debug\net5.0-windows\Lommeregner2.baml

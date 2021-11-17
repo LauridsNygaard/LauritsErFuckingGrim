@@ -1,0 +1,6 @@
+C:\Users\Bruger\Desktop\VS code\syntaktisk sukker og klistre-plus\syntaktisk sukker og klistre-plus\obj\Debug\syntaktisk sukker og klistre-plus.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\syntaktisk sukker og klistre-plus\syntaktisk sukker og klistre-plus\bin\Debug\syntaktisk sukker og klistre-plus.exe.config
+C:\Users\Bruger\Desktop\VS code\syntaktisk sukker og klistre-plus\syntaktisk sukker og klistre-plus\bin\Debug\syntaktisk sukker og klistre-plus.exe
+C:\Users\Bruger\Desktop\VS code\syntaktisk sukker og klistre-plus\syntaktisk sukker og klistre-plus\bin\Debug\syntaktisk sukker og klistre-plus.pdb
+C:\Users\Bruger\Desktop\VS code\syntaktisk sukker og klistre-plus\syntaktisk sukker og klistre-plus\obj\Debug\syntaktisk sukker og klistre-plus.exe
+C:\Users\Bruger\Desktop\VS code\syntaktisk sukker og klistre-plus\syntaktisk sukker og klistre-plus\obj\Debug\syntaktisk sukker og klistre-plus.pdb

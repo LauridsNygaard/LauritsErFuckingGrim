@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\VS code\Dato kort version\Dato kort version\obj\Debug\Dato kort version.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VS code\Dato kort version\Dato kort version\obj\Debug\MainWindow.g.cs
+C:\Users\Bruger\Desktop\VS code\Dato kort version\Dato kort version\obj\Debug\App.g.cs
+C:\Users\Bruger\Desktop\VS code\Dato kort version\Dato kort version\obj\Debug\Dato kort version_MarkupCompile.cache
+C:\Users\Bruger\Desktop\VS code\Dato kort version\Dato kort version\obj\Debug\Dato kort version_MarkupCompile.lref
+C:\Users\Bruger\Desktop\VS code\Dato kort version\Dato kort version\bin\Debug\Dato kort version.exe.config
+C:\Users\Bruger\Desktop\VS code\Dato kort version\Dato kort version\bin\Debug\Dato kort version.exe
+C:\Users\Bruger\Desktop\VS code\Dato kort version\Dato kort version\bin\Debug\Dato kort version.pdb
+C:\Users\Bruger\Desktop\VS code\Dato kort version\Dato kort version\obj\Debug\MainWindow.baml
+C:\Users\Bruger\Desktop\VS code\Dato kort version\Dato kort version\obj\Debug\Dato kort version.g.resources
+C:\Users\Bruger\Desktop\VS code\Dato kort version\Dato kort version\obj\Debug\Dato_kort_version.Properties.Resources.resources
+C:\Users\Bruger\Desktop\VS code\Dato kort version\Dato kort version\obj\Debug\Dato kort version.csproj.GenerateResource.cache
+C:\Users\Bruger\Desktop\VS code\Dato kort version\Dato kort version\obj\Debug\Dato kort version.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\Dato kort version\Dato kort version\obj\Debug\Dato kort version.exe
+C:\Users\Bruger\Desktop\VS code\Dato kort version\Dato kort version\obj\Debug\Dato kort version.pdb

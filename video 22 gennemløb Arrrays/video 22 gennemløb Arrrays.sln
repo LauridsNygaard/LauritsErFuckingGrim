@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "video 22 gennemløb Arrrays", "video 22 gennemløb Arrrays\video 22 gennemløb Arrrays.csproj", "{63758813-8AD4-47D7-B4D9-1383C5736050}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63758813-8AD4-47D7-B4D9-1383C5736050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63758813-8AD4-47D7-B4D9-1383C5736050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63758813-8AD4-47D7-B4D9-1383C5736050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63758813-8AD4-47D7-B4D9-1383C5736050}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0B8D7D8-EAD3-4A42-A07D-6611A37777C5}
+	EndGlobalSection
+EndGlobal

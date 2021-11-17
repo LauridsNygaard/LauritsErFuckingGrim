@@ -1,0 +1,7 @@
+C:\Users\Bruger\Desktop\VS code\boolean\boolean\obj\Debug\boolean.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VS code\boolean\boolean\obj\Debug\boolean.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\boolean\boolean\bin\Debug\boolean.exe.config
+C:\Users\Bruger\Desktop\VS code\boolean\boolean\bin\Debug\boolean.exe
+C:\Users\Bruger\Desktop\VS code\boolean\boolean\bin\Debug\boolean.pdb
+C:\Users\Bruger\Desktop\VS code\boolean\boolean\obj\Debug\boolean.exe
+C:\Users\Bruger\Desktop\VS code\boolean\boolean\obj\Debug\boolean.pdb

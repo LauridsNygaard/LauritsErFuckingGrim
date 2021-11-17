@@ -1,0 +1,7 @@
+C:\Users\Bruger\Desktop\VS code\Udvidet kontrolstruktur\Udvidet kontrolstruktur\obj\Debug\Udvidet kontrolstruktur.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VS code\Udvidet kontrolstruktur\Udvidet kontrolstruktur\obj\Debug\Udvidet kontrolstruktur.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\Udvidet kontrolstruktur\Udvidet kontrolstruktur\bin\Debug\Udvidet kontrolstruktur.exe.config
+C:\Users\Bruger\Desktop\VS code\Udvidet kontrolstruktur\Udvidet kontrolstruktur\bin\Debug\Udvidet kontrolstruktur.exe
+C:\Users\Bruger\Desktop\VS code\Udvidet kontrolstruktur\Udvidet kontrolstruktur\bin\Debug\Udvidet kontrolstruktur.pdb
+C:\Users\Bruger\Desktop\VS code\Udvidet kontrolstruktur\Udvidet kontrolstruktur\obj\Debug\Udvidet kontrolstruktur.exe
+C:\Users\Bruger\Desktop\VS code\Udvidet kontrolstruktur\Udvidet kontrolstruktur\obj\Debug\Udvidet kontrolstruktur.pdb

@@ -1,0 +1,16 @@
+﻿<Window x:Class="MatHelp_V_0._1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MatHelp_V_0._1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="pythago" Content="Pythagoras" HorizontalAlignment="Left" Margin="60,60,0,0" VerticalAlignment="Top" Width="120" Height="60" Click="pythago_Click"/>
+        <Button x:Name="triCalc" Content="Trekantsberegner" HorizontalAlignment="Left" Margin="240,60,0,0" VerticalAlignment="Top" Width="120" Height="60" Click="triCalc_Click"/>
+        <Button x:Name="sinRel" Content="Sinus Relation" HorizontalAlignment="Left" Margin="420,60,0,0" VerticalAlignment="Top" Width="120" Height="60"/>
+        <Button x:Name="cosRel" Content="Cosinus Realition" HorizontalAlignment="Left" Margin="600,60,0,0" VerticalAlignment="Top" Width="120" Height="60"/>
+
+    </Grid>
+</Window>

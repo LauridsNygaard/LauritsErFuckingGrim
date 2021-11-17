@@ -1,0 +1,7 @@
+C:\Users\Bruger\Desktop\VS code\Video 21 Arrays\Video 21 Arrays\bin\Debug\Video 21 Arrays.exe.config
+C:\Users\Bruger\Desktop\VS code\Video 21 Arrays\Video 21 Arrays\bin\Debug\Video 21 Arrays.exe
+C:\Users\Bruger\Desktop\VS code\Video 21 Arrays\Video 21 Arrays\bin\Debug\Video 21 Arrays.pdb
+C:\Users\Bruger\Desktop\VS code\Video 21 Arrays\Video 21 Arrays\obj\Debug\Video 21 Arrays.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VS code\Video 21 Arrays\Video 21 Arrays\obj\Debug\Video 21 Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\Video 21 Arrays\Video 21 Arrays\obj\Debug\Video 21 Arrays.exe
+C:\Users\Bruger\Desktop\VS code\Video 21 Arrays\Video 21 Arrays\obj\Debug\Video 21 Arrays.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bruger\Desktop\VS code\switch statements\switch statements\bin\Debug\switch statements.exe.config
+C:\Users\Bruger\Desktop\VS code\switch statements\switch statements\bin\Debug\switch statements.exe
+C:\Users\Bruger\Desktop\VS code\switch statements\switch statements\bin\Debug\switch statements.pdb
+C:\Users\Bruger\Desktop\VS code\switch statements\switch statements\obj\Debug\switch statements.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VS code\switch statements\switch statements\obj\Debug\switch statements.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\switch statements\switch statements\obj\Debug\switch statements.exe
+C:\Users\Bruger\Desktop\VS code\switch statements\switch statements\obj\Debug\switch statements.pdb

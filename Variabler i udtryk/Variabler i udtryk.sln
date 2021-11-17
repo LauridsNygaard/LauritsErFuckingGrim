@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler i udtryk", "Variabler i udtryk\Variabler i udtryk.csproj", "{FEB0E628-056D-45EB-B9F6-B466D086FD87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB0E628-056D-45EB-B9F6-B466D086FD87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB0E628-056D-45EB-B9F6-B466D086FD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB0E628-056D-45EB-B9F6-B466D086FD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB0E628-056D-45EB-B9F6-B466D086FD87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55752930-7F7E-4906-A4D0-DC58EF089636}
+	EndGlobalSection
+EndGlobal

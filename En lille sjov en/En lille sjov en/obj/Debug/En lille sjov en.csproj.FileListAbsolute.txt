@@ -1,0 +1,7 @@
+C:\Users\Bruger\Desktop\VS code\En lille sjov en\En lille sjov en\bin\Debug\En lille sjov en.exe.config
+C:\Users\Bruger\Desktop\VS code\En lille sjov en\En lille sjov en\bin\Debug\En lille sjov en.exe
+C:\Users\Bruger\Desktop\VS code\En lille sjov en\En lille sjov en\bin\Debug\En lille sjov en.pdb
+C:\Users\Bruger\Desktop\VS code\En lille sjov en\En lille sjov en\obj\Debug\En lille sjov en.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VS code\En lille sjov en\En lille sjov en\obj\Debug\En lille sjov en.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\En lille sjov en\En lille sjov en\obj\Debug\En lille sjov en.exe
+C:\Users\Bruger\Desktop\VS code\En lille sjov en\En lille sjov en\obj\Debug\En lille sjov en.pdb

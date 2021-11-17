@@ -1,0 +1,7 @@
+C:\Users\Bruger\Desktop\VS code\CS video 17\CS video 17\bin\Debug\CS video 17.exe.config
+C:\Users\Bruger\Desktop\VS code\CS video 17\CS video 17\bin\Debug\CS video 17.exe
+C:\Users\Bruger\Desktop\VS code\CS video 17\CS video 17\bin\Debug\CS video 17.pdb
+C:\Users\Bruger\Desktop\VS code\CS video 17\CS video 17\obj\Debug\CS video 17.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VS code\CS video 17\CS video 17\obj\Debug\CS video 17.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VS code\CS video 17\CS video 17\obj\Debug\CS video 17.exe
+C:\Users\Bruger\Desktop\VS code\CS video 17\CS video 17\obj\Debug\CS video 17.pdb
